@@ -115,9 +115,4 @@ watch(() => keyCodeDisplay.value, function(val) {
     text-align: center;
     padding-top: 25px;
   }
-
-  .bingo {
-    color: red;
-    scale: 1.5;
-  }
 </style>
